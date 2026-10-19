@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio Burciaga</h1>
-<h3 align="center">Aspiring ML Engineer from Mexico</h3>
+<h3 align="center">Software Engineer</h3>
 
 ---
 
